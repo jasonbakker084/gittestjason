@@ -3,14 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.novi.oefeninggittest;
 
 /**
  *
  * @author jasonbakker
  */
-public class TestClasse {
- int x = 5;
- String y = "Ik ben een String";
- boolean Jason = true;
+public class Jason {
+    int f =  6;
 }
