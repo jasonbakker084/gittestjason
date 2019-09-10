@@ -10,5 +10,6 @@ package com.novi.oefeninggittest;
  * @author jasonbakker
  */
 public class TestClasse {
-    
+ int x = 5;
+ String y = "Ik ben een String";
 }
