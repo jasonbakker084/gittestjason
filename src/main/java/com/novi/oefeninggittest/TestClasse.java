@@ -12,5 +12,5 @@ package com.novi.oefeninggittest;
 public class TestClasse {
  int x = 5;
  String y = "Ik ben een String";
- boolean Jason = true;
+ boolean Jason = true; 
 }
